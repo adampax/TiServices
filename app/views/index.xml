@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container">
+		<Button onClick='doClick' idx=0>Toggle Background  Service</Button>
+		<Button onClick='doClick' idx=1>Toggle Foreground Service</Button>
+		<Button onClick='doClick' idx=2>Toggle Background Location Service</Button>
+		<Button onClick='doClick' idx=3>Toggle Foreground Location Service</Button>
+	</Window>
+</Alloy>
