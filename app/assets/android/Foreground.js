@@ -25,9 +25,9 @@ function foregroundNotify(){
         }),
     }));
 
-    setTimeout(function(){
-        foregroundCancel();
-    }, 2000);
+    // setTimeout(function(){
+    //     foregroundCancel();
+    // }, 2000);
 }
 
 function foregroundCancel(){
